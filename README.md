@@ -3,7 +3,9 @@ between hosts, encrypts them then sends them to the other host.
 
 This code has been tested on "Debian GNU/Linux 9 (stretch)".
 
-To test on the same environment build the docker image
+You can test the code on a similar environment or run it in docker instead
+
+To build the docker image
 
 > docker build ./
 
